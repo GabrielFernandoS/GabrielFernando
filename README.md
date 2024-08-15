@@ -16,12 +16,6 @@ Participei do desenvolvimento web dos principais fragments do site utilizando a 
 - **Web Moderno Completo com JavaScript (Em andamento):** Leonardo Moura Leitão, Cod3r Cursos Online, Udemy.
 - **React - The Complete Guide 2024 (incl. Next.js, Redux) (Em andamento):** Maximillian Schwarzmüller, Udemy.
 
-## Como Rodar
-Para rodar meus projetos localmente:
-1. Clone o repositório
-2. Instale as dependências com `npm install` (ou `yarn install` se preferir Yarn)
-3. Execute o projeto com `npm start` (ou `yarn start`)
-
 ## Contribuições
 Estou sempre aberto a colaborações e contribuições para projetos open source. Se você está interessado em colaborar ou tem sugestões para melhorar meus projetos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
