@@ -10,7 +10,6 @@ Sou estudante de Ciências da Computação com experiência em desenvolvimento w
 - **Conhecimento em Redes:** Fundamentos de redes, configuração básica, protocolos de rede
 
 ## Projetos Destacados
-### [Projeto Soli Deo Gloria](#)
 Participei do desenvolvimento web dos principais fragments do site utilizando a plataforma Liferay. Essa experiência me permitiu trabalhar com soluções avançadas em desenvolvimento web e adquirir conhecimento prático com o serviço de Objects da Liferay.
 
 ## Cursos e Certificações
